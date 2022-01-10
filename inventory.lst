@@ -1,3 +1,7 @@
 [workers]
 188857bdb21c.mylabserver.com
 ce49999e7c1c.mylabserver.com
+[worker1]
+188857bdb21c.mylabserver.com
+[worker2]
+ce49999e7c1c.mylabserver.com
